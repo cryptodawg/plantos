@@ -1,0 +1,14 @@
+{
+  "resourceName": "plantosimages",
+  "policyUUID": "fc1d0385",
+  "bucketName": "plantosd210dc9a116e4aeba96912c1567eb1f3",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
